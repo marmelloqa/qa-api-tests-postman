@@ -1,21 +1,26 @@
-# QA API Tests - ViaCEP
+# QA API Tests - Postman
 
-Projeto de estudos em Software Quality Assurance.
+Projeto de estudos em Software Quality Assurance utilizando Postman para testes de APIs REST.
 
 ## Tecnologias
 
 - Postman
 - API REST
+- JSON
 - Git
 - GitHub
-- Markdown
 
-## Estrutura
+## API utilizada
 
-TestCases/
+- ViaCEP
 
-BugReports/
+## Conteúdo
 
-Postman/
+- Consulta de CEP válido
+- Consulta de CEP inválido
+- Validação de Status Code
+- Testes automatizados com Postman
 
-Projeto criado para desenvolvimento do portfólio em QA.
+## Objetivo
+
+Desenvolver habilidades em testes de APIs e construção de portfólio para oportunidades em QA.
